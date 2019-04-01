@@ -1,0 +1,22 @@
+[
+    {
+        "mobileImg":"slide_01_640x340.jpg",
+        "pcImg":"slide_01_2000x410.jpg"
+    },
+    {
+        "mobileImg":"slide_02_640x340.jpg",
+        "pcImg":"slide_02_2000x410.jpg"
+    },
+    {
+        "mobileImg":"slide_03_640x340.jpg",
+        "pcImg":"slide_03_2000x410.jpg"
+    },
+    {
+        "mobileImg":"slide_04_640x340.jpg",
+        "pcImg":"slide_04_2000x410.jpg"
+    },
+    {
+        "mobileImg":"slide_03_640x340.jpg",
+        "pcImg":"slide_03_2000x410.jpg"
+    }
+]
